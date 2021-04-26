@@ -1,0 +1,82 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+}
+
+.main
+{
+    width: 1015px;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+
+#form_head
+{
+    text-align: center;
+    background-color: #FEFFED;
+    height: 66px;
+    margin: 0 0 -29px 0;
+    padding-top: 35px;
+    padding-bottom: 22px;
+    border-radius: 8px 8px 0 0;
+}
+
+/* #form_input
+{
+    text-align: center;
+    background-color: #FEFFED;
+    height: 66px;
+    margin: 0 0 -29px 0;
+    padding-top: 35px;
+    padding-bottom: 22px;
+    border-radius: 8px 8px 0 0;
+}
+
+#form_buttom
+{
+    text-align: center;
+    background-color: #FEFFED;
+    height: 66px;
+    margin: 0 0 -29px 0;
+    padding-top: 35px;
+    padding-bottom: 22px;
+    border-radius: 8px 8px 0 0;
+}
+
+.dropdown_box
+{
+    text-align: center;
+    background-color: #FEFFED;
+    margin: 0;
+    border-radius: 0;
+} */
+
+.submit
+{
+    text-align: center;
+    background-color: #FEFFED;
+    margin-top: 20px;
+    padding: auto;
+}
+
+.textarea_input
+{
+    text-align: center;
+    background-color: #ffffff;
+    height: 70px;
+    margin: 2px;
+    padding-top: 3px;
+    padding: 3px;
+    display: inline-block;
+} 
+
+#res_msg
+{
+    text-align: center;
+    color: #008000;
+    background-color: #ffffff;
+    height: 66px;
+    margin-top: 30px;
+    padding: 5px;
+} 
